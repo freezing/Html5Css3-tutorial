@@ -59,6 +59,25 @@ img {
     background-color: #e5e9dc;
 }
 
+@media screen and (max-width: 700px) {
+    .main-area,
+    .sidebar {
+        width: auto;
+        float: none;
+    }
+
+    .main-area {
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
 footer {
     text-align: center;
     font-size: 85%;
@@ -87,14 +106,29 @@ footer {
 .site-nav a {
     display: block;
     text-decoration: none;
+    background-color: #535e3b;
     color: #fff;
     padding: 10px 20px;
-    border: 3px solid #e5e9dc;
-    border-bottom: none;
+    box-sizing: border-box;
 }
 
 .site-nav a:hover {
-    background-color: #e5e9dc;
+    background-color: #798a56;
+}
+
+@media screen and (max-width: 700px) {
+    .site-nav li {
+        width: 32.02%;
+        margin-right: 0;
+        padding: 0;
+    }
+
+    .site-nav a {
+        padding: 15px 0;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
 }
 
 .site-nav ul {
