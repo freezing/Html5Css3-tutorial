@@ -2,166 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57926cb5-79f8-4917-9f61-86db0c4cd208" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/images/bee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/images/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/images/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/images/bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/bear-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/bear.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/bee-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/bee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/dock-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/dock.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/duck-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/squirrel-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/strawberry-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/strawberry.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/trees-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/trees.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/water-thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/images/water.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/images/bee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/images/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/images/bee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/images/duck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform/images/bird.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-BoldItalic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-BoldItalic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Italic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Italic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Italic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/images/squirrel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/js/cycle2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/js/declarativeToggle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Show-Hide/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/css/lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal-image/js/lightbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/js/cycle2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow-2/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/js/cycle2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slideshow/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transform/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Bold.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-BoldItalic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans-Italic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/fonts/PT-Sans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transition/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scssLintPlugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass-intro/css/_header.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass-intro/css/screen.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass-intro/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/screen.css" afterPath="$PROJECT_DIR$/css/screen.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="HtmlCssTutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -182,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modal-image/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sass-intro/css/screen.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -211,6 +67,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/screen.css" />
         <option value="$PROJECT_DIR$/grid/index.html" />
+        <option value="$PROJECT_DIR$/modal-image/index.html" />
+        <option value="$PROJECT_DIR$/sass-intro/css/screen.css" />
+        <option value="$PROJECT_DIR$/sass-intro/css/screen.scss" />
       </list>
     </option>
   </component>
@@ -279,6 +138,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="sass-intro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-intro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="screen.scss" />
+              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass-intro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HtmlCssTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="modal-image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -294,9 +207,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="PluginDummyText.Genre" value="cookery" />
+    <property name="last_opened_file_path" value="/usr/local/bin/sass-lint" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -406,33 +320,33 @@
       <workItem from="1466715798652" duration="457000" />
       <workItem from="1466718143374" duration="6004000" />
       <workItem from="1466803105187" duration="4110000" />
-      <workItem from="1466809693286" duration="1353000" />
+      <workItem from="1466809693286" duration="1981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11924000" />
+    <option name="totallyTimeSpent" value="12552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861111" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -479,6 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -486,6 +401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3150">
           <caret line="210" column="16" selection-start-line="210" selection-start-column="16" selection-end-line="210" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -493,6 +409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -500,6 +417,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -514,6 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="120" column="17" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,6 +440,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -528,6 +448,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="339" column="11" selection-start-line="339" selection-start-column="11" selection-end-line="339" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,6 +456,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,8 +518,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal-image/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sasslintPlugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-intro/css/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-intro/css/screen.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass-intro/css/screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
       </provider>
